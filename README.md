@@ -1,19 +1,6 @@
 # solucion-mantenimiento
 
-## Project setup
-```
-npm install
-```
+La aplicacion tiene una base de datos local 
+utiliza json-server y su ubicacion esta en assets.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
