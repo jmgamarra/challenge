@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "John1",
+      "lastname": "Smith",
+      "email": "john.smith@example.com",
+      "birthDate": "1980-01-23",
+      "address": {
+        "id": 1,
+        "street": "Lindenstraße 89",
+        "city": "Freiburg im Breisgau",
+        "country": "DE1",
+        "postalcode": "42030"
+      }
+    },
+    {
+      "id": 2,
+      "firstname": "Pedro",
+      "lastname": "Cardenas",
+      "email": "pcard@gmail.com",
+      "birthDate": "1966-12-07",
+      "address": {
+        "id": 1,
+        "street": "Callao 4",
+        "city": "Puebla",
+        "country": "DE",
+        "postalcode": "69030"
+      }
+    },
+    {
+      "firstname": "Jorge Mario",
+      "lastname": "Ponce",
+      "birthDate": "12-02-1980",
+      "email": "jorge.gamarra.ponce@gmail.com",
+      "id": 3
+    }
+  ]
+}
